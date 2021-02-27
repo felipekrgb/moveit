@@ -108,3 +108,7 @@
 .challengeActive footer button:hover {
   filter: brightness(0.9);
 }
+
+.challengeActive footer button {
+  outline: none;
+}
