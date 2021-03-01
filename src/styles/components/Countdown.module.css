@@ -57,10 +57,6 @@
   transition: background-color 0.2s;
 }
 
-.countdownButton:focus {
-  outline: none;
-}
-
 .countdownButton img {
   margin-left: 1rem;
 }
